@@ -1,0 +1,27 @@
+<annotation>
+	<folder>D:/objlab/ch01_20190623091357\Annotations</folder>
+	<filename>924.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920.0</width>
+		<height>1080.0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>trailer</name>
+		<pose>Unspecified</pose>
+		<trackID>trailer_1</trackID>
+		<trajectory_length>36</trajectory_length>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1378</xmin>
+			<ymin>292</ymin>
+			<xmax>164</xmax>
+			<ymax>214</ymax>
+		</bndbox>
+	</object>
+</annotation>

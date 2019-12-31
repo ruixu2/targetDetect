@@ -1,0 +1,27 @@
+<annotation>
+	<folder>D:/objlab/ch01_20190623091357\Annotations</folder>
+	<filename>2718.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920.0</width>
+		<height>1080.0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Truck</name>
+		<pose>Unspecified</pose>
+		<trackID>Truck_1</trackID>
+		<trajectory_length>1</trajectory_length>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>772</xmin>
+			<ymin>986</ymin>
+			<xmax>394</xmax>
+			<ymax>94</ymax>
+		</bndbox>
+	</object>
+</annotation>

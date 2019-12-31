@@ -1,0 +1,27 @@
+<annotation>
+	<folder>D:/objlab/ch01_20190623091357\Annotations</folder>
+	<filename>1586.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920.0</width>
+		<height>1080.0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Truck</name>
+		<pose>Unspecified</pose>
+		<trackID>Truck_4</trackID>
+		<trajectory_length>10</trajectory_length>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>784</xmin>
+			<ymin>816</ymin>
+			<xmax>466</xmax>
+			<ymax>260</ymax>
+		</bndbox>
+	</object>
+</annotation>

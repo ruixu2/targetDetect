@@ -1,0 +1,27 @@
+<annotation>
+	<folder>D:/objlab/ch01_20190623091357\Annotations</folder>
+	<filename>3437.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920.0</width>
+		<height>1080.0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>autotruck</name>
+		<pose>Unspecified</pose>
+		<trackID>autotruck_1</trackID>
+		<trajectory_length>75</trajectory_length>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>714</xmin>
+			<ymin>322</ymin>
+			<xmax>360</xmax>
+			<ymax>258</ymax>
+		</bndbox>
+	</object>
+</annotation>

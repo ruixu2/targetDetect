@@ -1,0 +1,27 @@
+<annotation>
+	<folder>D:/objlab/ch01_20190623091357\Annotations</folder>
+	<filename>3924.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920.0</width>
+		<height>1080.0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tractor</name>
+		<pose>Unspecified</pose>
+		<trackID>tractor_2</trackID>
+		<trajectory_length>81</trajectory_length>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1690</xmin>
+			<ymin>98</ymin>
+			<xmax>68</xmax>
+			<ymax>60</ymax>
+		</bndbox>
+	</object>
+</annotation>
